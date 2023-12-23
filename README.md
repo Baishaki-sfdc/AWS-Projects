@@ -5,5 +5,5 @@ https://github.com/Baishaki-sfdc/AWS-Projects/wiki/Build-a-Crud-serverless-API-u
 ## Host a wordpress site
 https://github.com/Baishaki-sfdc/Set-up-Wordpress-on-EC2-/tree/main
 
-## Host a static website 
+## Host a static website on S3 
 https://github.com/Baishaki-sfdc/AWS-Projects/wiki/Host-a-static-website-on-AWS-using-Amazon-S3-and-Route-53
